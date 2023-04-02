@@ -1,0 +1,14 @@
+
+foldere Script ro kenar index.php copy kon
+//-------------------------------------------------------------------------------------
+// to head copy con yani beine <head>    va  </head> 
+<script type="text/javascript" src="scripts/scriptaculous/src/prototype.js"></script>
+<script type="text/javascript" src="scripts/scriptaculous/src/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="scripts/scriptaculous/src/lightbox.js"></script>
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+
+//-------------------------------------------------------------------------------------
+
+baraye estefade ham.. kafie ino benvisi 
+
+<a href="imgae.jpg" rel="lightbox" title="an image" ><img src="image.jpg" width="215" height="84"></a>
